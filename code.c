@@ -2,7 +2,12 @@
 
 int main() {
 	printf("1");
-	printf("张雪怡笨蛋");
+	printf("笨蛋");
+
+
+
+
+	printf("222");
 
 
 
