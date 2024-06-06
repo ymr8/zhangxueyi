@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int main() {
-	printf("test1");
+	printf("1");
+
+
+
+
+
 	return 0;
 }
