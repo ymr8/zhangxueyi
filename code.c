@@ -2,6 +2,7 @@
 
 int main() {
 	printf("1");
+	printf("张雪怡笨蛋");
 
 
 
