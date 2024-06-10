@@ -18,6 +18,7 @@ socket sample :查询对应技术的代码样品
 
 ### Branch 分支
 在仓库中可以包含多个分支，分支才是代码文件的第一存储单位，
-默认的仓库主分支为master/main不仅可以管理代码存储，便于多人协作开发
+默认的仓库主分支为master/main不仅可以管理代码存储，便于多人协作
 
-![截图1](https://github.com/ymr8/zhangxueyi/blob/master/1.jpg "悬停标题")
+![pkNvwIU.jpg](https://s21.ax1x.com/2024/06/10/pkNvwIU.jpg)(https://imgse.com/i/pkNvwIU)
+
