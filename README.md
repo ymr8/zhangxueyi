@@ -22,3 +22,13 @@ socket sample :查询对应技术的代码样品
 
 ![pkNv7QA.jpg](https://s21.ax1x.com/2024/06/11/pkNv7QA.jpg)
 
+## 仓库内容
+Code，资源存储，代码资源，二进制，项目管理脚本，许可证等等
+issues， 使用时遇到的bug或进行提交， 等待反馈
+README, 使用markdown语言编写, 工程自述文件，开发进度，，版本更新，使用介绍等等
+LICENSE 许可证: GPL2.0,3.0. Apahce 2.0, Mit, 这些许可证，给使用者最大使用权限以及最少的限制
+
+## Git软件，分布式版本控制系统
+仓库管理软件，使用git管理私人代码或企业代码
+![pkNxkwV.png](https://s21.ax1x.com/2024/06/11/pkNxkwV.png)
+
